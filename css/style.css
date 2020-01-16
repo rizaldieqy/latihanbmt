@@ -23,7 +23,7 @@
 }
 #subheader #lbmt {
     width: 70px;
-    height: 100px;
+    height: 70px;
 }
 #subheader #PT {
     margin-top: -100px;
@@ -37,6 +37,7 @@
 }
 #subheader li {
     margin-top: -50px;
+    margin-right: -20px;
     float: right;
     padding-top: 40px;
     width: 100px;
@@ -51,7 +52,6 @@
 #container #content #bmt {
     padding-left: 90px;
     margin-left: 200px;
-    float: center;
     width: 50px;
     height: 50px;
 }
