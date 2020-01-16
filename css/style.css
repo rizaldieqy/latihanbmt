@@ -50,8 +50,30 @@
     width: 100px;
 }
 #container #content #bmt {
-    padding-left: 90px;
-    margin-left: 200px;
+    padding: 100%;
+    margin-right: 180px;
     width: 50px;
     height: 50px;
+}
+#container #profil2 {
+    margin-left: 460px;
+    width: 100px;
+}
+#container #profil {
+    padding : 50px;
+    margin-left: 90px;
+}
+#container #visimisi2 {
+    margin-left: 430px;
+}
+#container #visimisi {
+    padding : 50px;
+    margin-left: 90px;
+}
+#container #struktur2 {
+    margin-left: 400px;
+}
+#container #struktur {
+    padding : 50px;
+    margin-left: 90px;
 }
