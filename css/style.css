@@ -25,12 +25,16 @@
     width: 70px;
     height: 70px;
 }
+#subheader {
+    background-color: grey;
+}
 #subheader #PT {
     margin-top: -100px;
     float: left;
     padding-top: 40px;
     width: -100px;
     margin-left: 100px;
+    color: white;
 }
 #subheader ul {
     list-style-type: none;
@@ -76,4 +80,12 @@
 #container #struktur {
     padding : 50px;
     margin-left: 90px;
+}
+#container #cp {
+    margin-left: 530px;
+}
+#container #header2 #detail {
+    margin-left: 570px;
+    height: 50px;
+    width: 170px;
 }
